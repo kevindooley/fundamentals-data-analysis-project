@@ -4,3 +4,13 @@ https://www.geeksforgeeks.org/python-pandas-panel-count/
 
 https://data36.com/pandas-tutorial-2-aggregation-and-grouping/
 
+https://seaborn.pydata.org/introduction.html
+
+https://pandas.pydata.org/pandas-docs/stable/reference/frame.html#reshaping-sorting-transposing
+
+https://data36.com/pandas-tutorial-2-aggregation-and-grouping/
+
+https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html#reshaping-stacking
+
+https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+
