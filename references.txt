@@ -16,3 +16,9 @@ https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 
 https://seaborn.pydata.org/generated/seaborn.relplot.html#seaborn.relplot
 
+https://www.c-sharpcorner.com/article/a-complete-python-seaborn-tutorial/
+
+https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
+
+https://seaborn.pydata.org/generated/seaborn.boxenplot.html#seaborn.boxenplot
+
