@@ -31,3 +31,12 @@ https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in
 https://stackoverflow.com/questions/332289/how-do-you-change-the-size-of-figures-drawn-with-matplotlib
 
 https://stackoverflow.com/questions/8409095/matplotlib-set-markers-for-individual-points-on-a-line
+
+https://seaborn.pydata.org/generated/seaborn.pairplot.html#seaborn-pairplot
+
+
+https://seaborn.pydata.org/tutorial/regression.html#visualizing-linear-relationships
+
+https://medium.com/greyatom/linear-regression-is-a-line-reasonable-b1c8f94d03d7
+https://www.geeksforgeeks.org/seaborn-regression-plots/
+
