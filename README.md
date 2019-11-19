@@ -1,7 +1,7 @@
 # Fundamentals of Data Analysis Project
 Summary of the Tip's Dataset by Kevin Dooley
 
-![]("tip.png")
+![](tip.png)
 
 ### Background & Objectives
 
@@ -30,4 +30,4 @@ The aim of this project is to give an overview of the well-known Tips's Iris dat
 3. Seaborn is a high-level Python data visualisation library used for making attractive and informative statistical plots. It acts as a wrapper over matplotlib, and it’s used in conjunction with NumPy and pandas data structures
 4. Matplotlib similar to seaborn is a toolkit used the visualisation of data. Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
-![]("packages.png")
+![](packages.png)
