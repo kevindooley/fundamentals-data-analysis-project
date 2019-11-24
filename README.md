@@ -43,10 +43,10 @@ This dataset includes the recording of 244 tips and was apparently completed so 
 
 ### Table of Contents
 1. Dataset Background
-    i. Starting the Dataset
-    ii. Reading for tips.csv
-    iii. Overview of Dataset
-    iv. Glance at the Data
+    1. Starting the Dataset
+    2. Reading for tips.csv
+    3. Overview of Dataset
+    4. Glance at the Data
 2. Statistical Summary
 3. Examine Day Variable
 4. Examine Smoker Variable
