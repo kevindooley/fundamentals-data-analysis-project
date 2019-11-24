@@ -34,9 +34,9 @@ https://stackoverflow.com/questions/8409095/matplotlib-set-markers-for-individua
 
 https://seaborn.pydata.org/generated/seaborn.pairplot.html#seaborn-pairplot
 
-
 https://seaborn.pydata.org/tutorial/regression.html#visualizing-linear-relationships
 
 https://medium.com/greyatom/linear-regression-is-a-line-reasonable-b1c8f94d03d7
+
 https://www.geeksforgeeks.org/seaborn-regression-plots/
 

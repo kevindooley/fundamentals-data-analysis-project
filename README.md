@@ -1,7 +1,7 @@
 # Fundamentals of Data Analysis Project
 Summary of the Tip's Dataset by Kevin Dooley
 
-![](tip.png)
+![](extras/tip.png)
 
 ### Background & Objectives
 
@@ -30,4 +30,31 @@ The aim of this project is to give an overview of the well-known Tips's Iris dat
 3. Seaborn is a high-level Python data visualisation library used for making attractive and informative statistical plots. It acts as a wrapper over matplotlib, and it’s used in conjunction with NumPy and pandas data structures
 4. Matplotlib similar to seaborn is a toolkit used the visualisation of data. Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
-![](packages.png)
+### Visualisation
+Interactive visualisation, you can take a concept a step further by using technology to drill down into charts and graphs for more detail
+I used graphical techniques to further begin uncovering the structures of the dataset:
+* Univariate plots to better understand each attribute. 
+* Multivariate plots to better understand the relationships between attributes.
+
+![](extras/packages.png)
+
+### Abstract
+This dataset includes the recording of 244 tips and was apparently completed so the waiter could see which factors played the biggest role in shaping the amount of tips he/she was earning. It contains 7 different variables that have been examined both individually and against each other. Some of  the finding included: Males had bigger group sizes, higher bill totals and higher tips compared to females but females had a higher tip percentage for tip vs total bill. The weekend was the busiest time of the week and not always did table groups tip more than the expect 15% of the total bill.
+
+
+### Table of Contents
+1. Dataset Background
+    1.1. Starting the Dataset
+    1.2. Reading for tips.csv
+    1.3. Overview of Dataset
+    1.4. Glance at the Data
+2. Statistical Summary
+3. Examine Day Variable
+4. Examine Smoker Variable
+5. Examine Sex Variable
+6. Examine Time Variable
+7. Examine Size Variable
+8. Regression
+9. Concludion and Overall Summary
+10. References
+
